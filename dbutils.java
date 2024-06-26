@@ -1,1 +1,1 @@
-hello guys linux commans are very useful
+hello guys linux commands are very useful
