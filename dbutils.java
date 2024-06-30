@@ -1,3 +1,6 @@
+iam hemanth from kadapa...
+hi guys 
+hello iam in master branch...
 <<<<<<< HEAD
 <<<<<<< HEAD
 hello guys linux commans are very useful
